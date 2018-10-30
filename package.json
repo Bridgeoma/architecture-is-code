@@ -1,0 +1,23 @@
+{
+  "name": "architecture-is-code",
+  "version": "1.0.0",
+  "description": "Demo of Architecture-as-Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bridgeoma/architecture-is-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bridgeoma/architecture-is-code/issues"
+  },
+  "homepage": "https://github.com/Bridgeoma/architecture-is-code#readme",
+  "devDependencies": {
+    "mustache": "^3.0.0"
+  }
+}
