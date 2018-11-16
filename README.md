@@ -8,3 +8,5 @@ Architecture should not be just a diagram of the ["Separation of Concerns"](http
 2. NPM
 3. Mustache Templating Engine Library -  [Mustache GitHub Repo](https://github.com/janl/mustache.js)
 4. Draw.io Diagramming Tool - [Draw.io](https://www.draw.io/)
+5. Electron - [Electron JS Library](https://electronjs.org/docs/tutorial/installation)
+
