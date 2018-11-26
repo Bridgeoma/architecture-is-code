@@ -1,0 +1,14 @@
+{
+    "id" : "0102",
+    "name" : "RBC Ventures B2B"
+    {
+        "system" : "OWNR",
+        "version" : "9.0.0"
+        {
+            "infra_pattern" : "SPA-WEB-SERVERLESS"
+            {
+                "boundary" : "Browser"
+            }
+        }
+    }
+}
